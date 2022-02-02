@@ -1,5 +1,6 @@
-<h1 align="center">Welcome to my Github page!</h1>
-<p><b align="center">I'm Luce, and you should change your password</b></p>
+<h1 align="center">I'm Luce, and you should change your password!</h1>
+
+<p align="center">I love malware. Maybe a bit too much.</p>
 
 ## Quick Summary
 
