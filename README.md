@@ -1,6 +1,6 @@
 ### Welcome to my github page!
 
-<p>It's by no means perfect, but I'm just a beginner! Here's a quick summary of who I am:</p>
+## Quick Summary
 
 <img src="lucefetchOutput.png" alt="Luce bio">
 
@@ -9,3 +9,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucyb-work&theme=dracula">
   <p align="center"> <i>More stats for the nosey ones ;) </i></p>
 </p>
+
+## ToDo
+- Match the colour scheme of the stats and lucefetch output
+- Build something using C!
