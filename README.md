@@ -6,6 +6,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucyb-work&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucyb-work&theme=nord_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucyb-work&theme=dracula">
   <p align="center"> <i>More stats for the nosey ones ;) </i></p>
 </p>
