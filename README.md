@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Github page!</h1>
-
+<b align="center">I'm Luce, and you should change your password</b>
 ## Quick Summary
 
 <img src="lucefetchOutput.png" alt="Luce bio">
