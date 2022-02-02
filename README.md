@@ -1,20 +1,17 @@
-### Welcome to my github page!
+<h1 align="center">I'm Luce, and you should change your password!</h1>
 
-It's by no means perfect, but I'm just a beginner! Here's a quick summary of who I am:
+<p align="center">I love malware. Maybe a bit too much.</p>
 
-<!--
-**lucyb-work/lucyb-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Summary
 
 <img src="lucefetchOutput.png" alt="Luce bio">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucyb-work&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucyb-work&theme=dracula">
+  <p align="center"> <i>More stats for the nosey ones ;) </i></p>
+</p>
+
+## ToDo
+- Match the colour scheme of the stats and lucefetch output
+- Build something using C!
