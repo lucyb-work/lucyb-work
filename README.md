@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my github page!
+
+It's by no means perfect, but I'm just a beginner! Here's a quick summary of who I am:
 
 <!--
 **lucyb-work/lucyb-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
