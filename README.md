@@ -3,7 +3,11 @@
 
 
 
-<!-- <h1 align="center">I'm Luce, and you should change your password!</h1>
+<!-- 
+
+The remains of my old page. 
+
+<h1 align="center">I'm Luce, and you should change your password!</h1>
 
 <p align="center">I love malware. Maybe a bit too much.</p>
 
@@ -15,8 +19,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucyb-work&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucyb-work&theme=dracula">
   <p align="center"> <i>More stats for the nosey ones ;) </i></p>
-</p> -->
+</p> 
 
-## ToDo
+## 🛠️ ToDo
 - Match the colour scheme of the stats and lucefetch output
-- Build something using C!
+- Build something using C! -->
