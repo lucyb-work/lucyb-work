@@ -1,5 +1,5 @@
 
-<img src="lucefetch.gif" alt="Luce bio as gif">
+<img src="lucefetchcropped.gif" alt="Luce bio as gif">
 
 
 
